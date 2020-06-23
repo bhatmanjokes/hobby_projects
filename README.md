@@ -11,5 +11,7 @@
  
  **cancer anomaly detection** - predicting cancer anomalies using various classifiers such as KNN, Linear Regression, Decision Trees, Bagging and Voting.
  
+ **statistical analysis of Iris data** - analysing the Iris data with respect to CDF, Pearson Corelation Coefficient and predicting the species using KNN and Linear Regression.
+ 
  
  
